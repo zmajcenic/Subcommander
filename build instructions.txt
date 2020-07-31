@@ -1,0 +1,33 @@
+Development environment used: WinAPE
+https://www.chibiakumas.com/z80/Z80DevTools.php
+
+1. Compile files
+src/psg_data.asm
+src/psg.asm
+
+2. Edit
+src/sea wolf.asm
+and set
+;BuildROM	equ 1
+BuildDisk	equ 1
+
+Compile to produce disk version
+SUBCMDR.BIN
+
+3. Start openMSX emulator with a disk drive emulated by a folder where SUBCMDR.BIN can be found
+Load and start the game with
+bload"subcmdr.bin",r
+Save binary data by opening openMSX console with F10 key and typing:
+save_debuggable memory "2nd_bank.bin"
+
+4. Edit
+src/sea wolf.asm
+and set
+BuildROM	equ 1
+;BuildDisk	equ 1
+
+Compile to create a ROM version
+SUBCMDR.ROM
+
+* if compiler complains about out of range jumps just run compile again
+
