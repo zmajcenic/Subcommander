@@ -16,11 +16,17 @@ Control your submarine and sink as many ships as possible. You can fire up to 4 
 They will slowly accelerate and will take some time to reload.
 There is a layer of indestructible obstacles (plastic floatsome) which will destroy your torpedoes and provide no points.
 Sunk ships provide more points the higher they are. Exceptions are:
+
 - high priority target (red mark) which yields double points
+
 - civilian target (green mark) which will deduct you 999 points
+
 Ships also drop mines. If you get hit you will loose 555 points and be disabled for a few seconds.
+
 Special keys:
+
 STOP - pause the game
+
 CTRL+STOP - end game and return to main screen
 
 Notices
