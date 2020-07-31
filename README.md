@@ -30,16 +30,23 @@ Game is freely available for play and non-commerical distribution.
 Links
 ------
 Gameplay video - https://youtu.be/-2Q6cSR2f_w
+
 Downloads - https://1drv.ms/u/s!Av9g--Caxs7ohWLpwqdIwLne8pU1?e=q86vN0
+
 Arkos Tracker - https://www.julien-nevo.com/arkostracker/
+
 ZX Origins - https://damieng.com/typography/zx-origins/
+
 Sony HBI-55 - https://www.msx.org/wiki/Sony_HBI-55
 
 Credits
 -------
 Programming and Graphics - Zoran Majcenić
+
 Music - Fenyx Kell
+
 Sound Player - ATL
+
 Font - Damien Guard
 
 Zoran Majcenić
